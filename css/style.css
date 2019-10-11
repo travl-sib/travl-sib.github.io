@@ -163,6 +163,7 @@ input[type="search"]:focus {
 
 .main-nav a:hover {
     color: #c7b299;
+    cursor: pointer;
 }
 
 .main-nav a:active {
